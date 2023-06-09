@@ -1,0 +1,38 @@
+
+h1 {
+
+font-size: 50px;
+color: red;
+border-style: outset;
+border-width: 20px;
+border-color:gold;
+text-align: center;
+border-radius: 10px;
+
+
+
+}
+
+
+
+section {
+
+color:darkmagenta;
+font-size: 20px;
+
+
+
+
+}
+
+h2 {
+
+font-size: 40px;
+color:gold;
+border-style: outset;
+border-width: 5px;
+border-color: white;
+text-align: center;
+border-radius: 10px;
+
+}
